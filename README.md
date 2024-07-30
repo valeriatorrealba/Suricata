@@ -1,9 +1,38 @@
 # Desafío Guiado - Suricata
 
-Página web realizada usando Html5, Css3, Boostrap
+Este es un proyecto web para una tienda en línea llamada Suricata, que ofrece una variedad de productos como colaciones, desayunos, bebidas, verduras, dulces y empanadas.
+
+## Vista Codificada
+
+A continuación, se muestra la imagen del resultado codificado:
 
 ![Suricata](screenshot/zuricata.png)
 
 Diseño Responsivo
 
 ![SuricataResponsivo](screenshot/suricataRp.png)
+
+## Estructura del Proyecto
+
+El proyecto se compone de las siguientes secciones:
+
+## Secciones del Sitio Web
+
+- **Menú de Navegación (`<nav>`)**: Contiene enlaces a las diferentes secciones de la página, incluyendo Inicio, Productos y Contacto.
+- **Encabezado (`<header>`)**: Presenta el título principal de la página destacando los productos ofrecidos.
+- **Sección de Productos (`<header>`)**: Muestra una galería de productos con imágenes y descripciones.
+- **Sección de Medios de Pago (`<section class="bg-info text-white p-5 d-none d-sm-none d-md-none d-lg-block">`)**: Proporciona información sobre los medios de pago aceptados.
+- **Pie de Página (`<footer>`)**: Contiene el logo y el mensaje de derechos reservados.
+
+## Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- Bootstrap 5.3.2
+- JavaScript (jQuery)
+- Google Fonts (Open Sans)
+- Font Awesome
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.
