@@ -2,6 +2,10 @@
 
 Este es un proyecto web para una tienda en línea llamada Suricata, que ofrece una variedad de productos como colaciones, desayunos, bebidas, verduras, dulces y empanadas.
 
+## Descripción
+
+Suricata es una tienda en línea que ofrece una amplia gama de productos alimenticios. El sitio web está diseñado para proporcionar una experiencia de usuario agradable y fácil de usar, permitiendo a los clientes navegar por los productos y realizar compras de manera sencilla.
+
 ## Vista Codificada
 
 A continuación, se muestra la imagen del resultado codificado:
